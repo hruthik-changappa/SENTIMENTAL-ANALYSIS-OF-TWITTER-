@@ -1,7 +1,7 @@
 # Twitter Sentment Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.8-blueviolet)
-![Framework](https://img.shields.io/badge/Framework-sreamlit-red)
+![Framework](https://img.shields.io/badge/Framework-streamlit-red)
 
 
 #### **Twitter Sentment Analysis Web App**  using #tag, words and username to fetch data finds Insides of data and Tells Sentiment of the perticular #tag, words or username. 

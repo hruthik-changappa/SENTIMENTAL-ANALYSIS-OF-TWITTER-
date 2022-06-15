@@ -27,7 +27,7 @@ Check out the live demo: https://twitter--sentiment--analysiss.herokuapp.com/
 
 
 
-Source Code: [github link](https://github.com/everydaycodings/Twitter-Sentimental-Analysis-WebApp)
+Source Code: [github link](https://github.com/hruthik-changappa/SENTIMENTAL-ANALYSIS-OF-TWITTER-/blob/main/README.md)
 
 
 ## How to run the project?

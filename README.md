@@ -23,7 +23,7 @@ Check out the live demo: https://twitter--sentiment--analysiss.herokuapp.com/
 
 # Note
 
-> #### Use this URL - [Click Me](https://github.com/everydaycodings/Twitter-Sentimental-Analysis-WebApp/issues/new) - in case if you are faccing any problem with th WebApp or source code.
+> #### Use this URL - [Click Me](https://github.com/hruthik-changappa/SENTIMENTAL-ANALYSIS-OF-TWITTER-/blob/main/README.md) - in case if you are faccing any problem with th WebApp or source code.
 
 
 

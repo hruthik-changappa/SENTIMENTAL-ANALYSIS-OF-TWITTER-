@@ -51,17 +51,3 @@ access_token_secret = Your Keys
 ## Architecture of your Project Home Directory
 <p><img  alt="GIF" src="https://github.com/everydaycodings/Twitter-Sentimental-Analysis-WebApp/blob/master/presentation/pic1.png" width="240" height="410" /></p>
 
-
-#### Binance (BNB)
-```
-0x846d778c4714830C8cdcB2Af85F76544CFf0d9A1
-```
-#### Cardano(ADA)
-```
-addr1q8fstx3ut2nfhrv9e324tyfdp2uwcvy0uree3junwll5y5p7lnnqpnq6ufjh4qfkul9tvx49udsnyq7vmst6huvngyss72e63v
-```
-
-#### Bitcoin(BTC)
-```
-bc1qutf2e707aglx8wqmf4x8e7rzxaunmxlcnpyxqr
-```
